@@ -5,7 +5,7 @@ document.getElementById('app').innerHTML = /*HTML*/`
 <div class="container">
 <div class="text">Verdens mest ubrukelige chatbot: Kjell!</div>
 <div class="bildecontainer">
-<img src="map/chatbot.jpg" alt="Ubrukelig chatbot"> <br>
+<img src="images/chatbot.jpg" alt="Ubrukelig chatbot"> <br>
 <input id="chatbox" type="text">
 <div class="output" id="outputFelt"></div> <br>
 <h4>Kjell vil kun høre disse spørsmålene:<h4>
